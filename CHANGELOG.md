@@ -26,6 +26,7 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
   YAML content. (#4582)
 - Treat Go raw string literals like ordinary string literals (#3938)
 - Eliminate zombie uname processes (#4466)
+- SARIF output formatter not handling lists of OWASP or CWE metadata (#4673)
 
 ### Changed
 
